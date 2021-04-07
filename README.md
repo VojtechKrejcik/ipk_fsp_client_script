@@ -5,4 +5,4 @@ typ požadavku, kterým je příkaz GET . Systém používá symbolických jmen,
 na IP adresy pomocí protokolu Name Service Protocol (NSP). Tento protokol umožňuje získat IP
 adresu a číslo portu, kde daný souborový server běží.
 >
-> -- <cite>Zadani projekti z FIT VUT, Ryšavý Ondřej, doc. Ing., Ph.D.</cite>
+> -- <cite>Zadani projektu z FIT VUT, Ryšavý Ondřej, doc. Ing., Ph.D.</cite>
